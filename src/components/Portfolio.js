@@ -31,11 +31,11 @@ const Portfolio = () => {
 
                         <div className="bg-white transition-all ease-in-out duration-400 overflow-hidden text-gray-700 hover:scale-105 rounded-lg shadow-2xl p-3">
                             <div className="m-2 text-justify text-sm">
-                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">School Management Portal</h4>
+                                <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">건설 프로젝트 관리</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                    Our all encompassing School Management Portal is the only solution needed for any institution.
-                                    The School Management Portal (SMP) is a tool that can help educational institutions of all kinds manage their administrative tasks, automate processes, and streamline communication between teachers, students, parents, and administrators. 
-                                    The software can be used to manage all aspects of school operations, including student enrollment, attendance, grades, schedules, and more.
+                                    우리 건설 프로젝트 관리 솔루션은 건설 현장의 모든 요소를 효율적으로 관리할 수 있도록 지원합니다.
+                                    이 솔루션은 철골 구조물 및 철근 콘크리트 공사와 같은 복잡한 작업을 체계적으로 관리하고, 작업 흐름을 자동화하여 프로젝트 효율성을 극대화합니다. 
+                                    모든 데이터는 클라우드에 안전하게 저장되며, 어디서나 모든 디바이스에서 접근 가능합니다.
                                 </p>
                                 <div className="flex justify-center my-4">
                                     <Link to="/get-demo" className="text-white bg-blue-900 hover:bg-blue-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
