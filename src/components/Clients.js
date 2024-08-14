@@ -1,5 +1,5 @@
 import React from 'react';
-import kws from '../images/clients/kws.png';
+import IS from '../images/clients/IS.png';
 import geps from '../images/clients/geps.png';
 import protergia from '../images/clients/protergia.png';
 
