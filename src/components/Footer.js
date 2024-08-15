@@ -98,7 +98,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        주식회사 레드후드소프트웨어
+                        Red Hood Software Inc.
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
